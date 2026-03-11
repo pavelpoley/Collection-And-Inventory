@@ -1,17 +1,17 @@
 # Collection & Inventory Tracker
 
 <p align="center">
-  <img src="image1.png" width="180"/>
-  <img src="image2.png" width="180"/>
-  <img src="image3.png" width="180"/>
-  <img src="image4.png" width="180"/>
+  <img src="./image1.jpg" width="180" alt="Collection & Inventory Tracker Android app collections list">
+  <img src="./image2.jpg" width="180" alt="Inventory management app item details screen">
+  <img src="./image3.jpg" width="180" alt="Barcode scanning inventory tracker Android">
+  <img src="./image4.jpg" width="180" alt="Custom fields collection tracker Android app">
 </p>
 
 <p align="center">
-  <img src="image5.png" width="180"/>
-  <img src="image6.png" width="180"/>
-  <img src="image7.png" width="180"/>
-  <img src="image8.png" width="180"/>
+  <img src="./image5.jpg" width="180" alt="Inventory statistics and analytics Android app">
+  <img src="./image6.jpg" width="180" alt="Collection item photos and media management">
+  <img src="./image7.jpg" width="180" alt="Inventory export and backup features Android">
+  <img src="./image8.jpg" width="180" alt="Collection tracker dashboard Android app UI">
 </p>
 
 📦 Organize your inventory and collections the smart way! Keep everything in a single item catalog, from home inventory and tools to personal collections. Scan inventory, add items quickly, and use the item tracker to manage your stuff offline. Get organized and catalog your items today!
