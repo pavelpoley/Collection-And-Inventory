@@ -1,5 +1,19 @@
 # Collection & Inventory Tracker
 
+<p align="center">
+  <img src="image1.png" width="180"/>
+  <img src="image2.png" width="180"/>
+  <img src="image3.png" width="180"/>
+  <img src="image4.png" width="180"/>
+</p>
+
+<p align="center">
+  <img src="image5.png" width="180"/>
+  <img src="image6.png" width="180"/>
+  <img src="image7.png" width="180"/>
+  <img src="image8.png" width="180"/>
+</p>
+
 📦 Organize your inventory and collections the smart way! Keep everything in a single item catalog, from home inventory and tools to personal collections. Scan inventory, add items quickly, and use the item tracker to manage your stuff offline. Get organized and catalog your items today!
 
 For hobby collectors, households, and small teams managing shared assets, staying organized is simple here. Powerful inventory management, fast item tracking, and quick search give you control, so you can move on from messy spreadsheets and rely on a smart item organizer.
