@@ -1,13 +1,6 @@
 # Collection & Inventory Tracker
 
-<a href="https://www.producthunt.com/products/collection-inventory-tracker/reviews/new?utm_source=badge-product_review&utm_medium=badge&utm_source=badge-collection&#0045;inventory&#0045;tracker" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1186093&theme=light" alt="Collection&#0032;&#0038;&#0032;Inventory&#0032;Tracker - Organize&#0032;anything&#0032;—&#0032;inventory&#0044;&#0032;collections&#0044;&#0032;and&#0032;more | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-<p align="center">
-  <img src="./image1.jpg" width="180" alt="Collection & Inventory Tracker Android app collections list">
-  <img src="./image2.jpg" width="180" alt="Inventory management app item details screen">
-  <img src="./image3.jpg" width="180" alt="Barcode scanning inventory tracker Android">
-  <img src="./image4.jpg" width="180" alt="Custom fields collection tracker Android app">
-</p>
+<a href="https://www.producthunt.com/products/collection-inventory-tracker?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-collection-inventory-tracker" target="_blank" rel="noopener noreferrer"><img alt="Collection &amp; Inventory Tracker - Organize anything — inventory, collections, and more | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1103211&amp;theme=light&amp;t=1774096752249"></a>
 
 <p align="center">
   <img src="./image5.jpg" width="180" alt="Inventory statistics and analytics Android app">
