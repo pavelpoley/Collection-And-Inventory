@@ -56,3 +56,19 @@ From organizing tools and home inventory to growing a vinyl or stamp collection,
 
 Website:
 https://www.collectioninventory.app
+
+
+### Guides
+- [How to Organize Your Home Inventory](https://www.collectioninventory.app/how-to-organize-your-home-inventory/)
+- [How to Catalog a Book Collection Digitally](https://www.collectioninventory.app/how-to-catalog-a-book-collection-digitally/)
+- [How to Create a Moving Inventory Checklist](https://www.collectioninventory.app/how-to-create-a-moving-inventory-checklist/)
+- [Spreadsheet vs Inventory App: When It's Time to Switch](https://www.collectioninventory.app/spreadsheet-vs-inventory-app/)
+- [Home Inventory Checklist for Insurance Claims](https://www.collectioninventory.app/home-inventory-checklist-for-insurance/)
+
+### Comparisons
+- [iCollect Everything vs Collection & Inventory Tracker](https://www.collectioninventory.app/icollect-everything-vs-collection-inventory-tracker/)
+- [Collectr vs Collection & Inventory Tracker](https://www.collectioninventory.app/collectr-vs-collection-inventory-tracker/)
+- [Discogs vs Collection & Inventory Tracker](https://www.collectioninventory.app/discogs-vs-collection-inventory-tracker/)
+- [Sortly vs Collection & Inventory Tracker](https://www.collectioninventory.app/sortly-vs-collection-inventory-tracker/)
+- [CLZ vs Collection & Inventory Tracker](https://www.collectioninventory.app/clz-vs-collection-inventory-tracker/)
+- [MyCollections vs Collection & Inventory Tracker](https://www.collectioninventory.app/mycollections-vs-collection-inventory-tracker/)
