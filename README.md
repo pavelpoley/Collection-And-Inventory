@@ -53,7 +53,7 @@ From organizing tools and home inventory to growing a vinyl or stamp collection,
 📲 Download our app today and start organizing your world! Build your perfect inventory collection, track items effortlessly, and keep your stuff safe, sorted, and accessible anytime. Create smarter collections, catalog it, and take control of your space now!
 
 [Android app](https://play.google.com/store/apps/details?id=com.ppapps.collections)
-[iOS app]([https://play.google.com/store/apps/details?id=com.ppapps.collections](https://apps.apple.com/us/app/collection-inventory-tracker/id6776667729))
+[iOS app](https://apps.apple.com/us/app/collection-inventory-tracker/id6776667729)
 
 
 Website:
